@@ -11,8 +11,7 @@
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pushkarpawar01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </p>
-  <!--- ##### Social Handles ##### --->
-[![Website](https://img.shields.io/badge/%20%F0%9F%8F%A1%20website-0072ff.svg?longCache=true&style=for-the-badge)](https://portfolio-pushkar-pawars-projects-337efcb7.vercel.app/)
+  
   <p align="center">
     <a href="https://www.linkedin.com/in/pushkar-pawar-5b2532290/">
       <img alt="linkedIn" src="assets/svg/linkedin.svg"/>
