@@ -7,7 +7,10 @@
   
   <!--- ##### Coder on top ##### --->
   <!---  <img src="assets/images/coder_profile_pic_2.jpg" width="150" />--->
-  
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=pushkarpawar01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </p>
   <!--- ##### Social Handles ##### --->
 [![Website](https://img.shields.io/badge/%20%F0%9F%8F%A1%20website-0072ff.svg?longCache=true&style=for-the-badge)](https://portfolio-pushkar-pawars-projects-337efcb7.vercel.app/)
   <p align="center">
